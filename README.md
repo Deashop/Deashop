@@ -9,7 +9,7 @@ Actuellement en apprentissage chez ADEN Concept et étudiant à ESME Sudria Lill
 ## Compétences et outils
 | Domaine | Langages | Outils | Matériel |
 |---|---|---|---|
-| Systèmes embarqués | C; Python; VHDL | PlatformIO; Make; Proteus; Codesys | PIC; STM32; Raspberry Pi |
+| Systèmes embarqués | C; Python; VHDL, Arduino | PlatformIO; Make; Proteus; Codesys | PIC; STM32; Raspberry Pi |
 | IoT et réseau | Python; MQTT; NodeJS | Mosquitto; Node-RED; Docker | ESP32; LoRa; WiFi modules |
 | Traitement du signal | MATLAB; Python | Simulink; NumPy; SciPy | Oscilloscope; Générateur de fonctions |
 | Électronique | Verilog HDL; C | LTspice; KiCad | Breadboard; ADC; OpAmps |
